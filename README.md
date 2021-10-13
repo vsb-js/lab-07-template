@@ -6,7 +6,7 @@ You can use some data from [free API](https://github.com/public-apis/public-apis
 The goal of this lab is to try-out things you will need for your project. Try to progress as much as possible so you have time to ask your teacher in case something doesn't work for you.
 
 ## Tasks
-1. Create `npm project` using `npm init` in the folder `lab-07`. More info [here](https://docs.npmjs.com/cli/v7/commands/npm-init).
+1. Create `npm project` using `npm init` in the folder `lab-07-xx`. More info [here](https://docs.npmjs.com/cli/v7/commands/npm-init).
 1. Add `express`, `sequelize`, and other packages what you need. More info in presenation [5 Express](https://docs.google.com/presentation/d/1RZJXLhgdzBajMYx7RHfO8k6gByorKBxMe8V7G97OmG0/edit#slide=id.gf4b3f6586d_0_182) and [6 ORM](https://docs.google.com/presentation/d/1QOj9iJxpC3wRnAQWFBvzUzQFgI15Zv_cOcB5LKL2SLo/edit#slide=id.gf5b189d86d_0_108)
     -  `npm install express --save`
     -  `npm install sequelize --save` and `npm install --save sqlite3`
