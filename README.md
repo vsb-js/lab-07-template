@@ -30,7 +30,7 @@ The goal of this lab is to try-out things you will need for your project. Try to
         }
         ```
     - Follow the guide with creating a first migration and run it as per tutorial
-    - If you want, you can see your database using several DB management tools. VSC has plugins, WebStorm has plugins or you can use for exmaple [this](https://sqlitebrowser.org/).    
+    - If you want, you can see your database using several DB management tools. VSC has plugins, WebStorm has plugins or you can use for example [this](https://sqlitebrowser.org/).    
 5. ORM scheme (2 models connected via [association](https://sequelize.org/master/class/lib/associations/base.js~Association.html))
 6. Create 4 endpoints
     1. get all information via one request (from both tables) 
